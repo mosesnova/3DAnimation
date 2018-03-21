@@ -1,0 +1,11 @@
+ 1             1233          255           0             255         hello*are$          A             -10 
+ 1             1231          234           255           233         ytyyy*are$         B              0 
+ 1             1231          234           255           233         hello*wew$         c              0 
+ 1             1231          234           255           233         helui*uio*wew$      D              0 
+ 1             1231          234           255           233         helui*uio*wew$      E              0 
+1             1231          234           255           233         hel*ui*uio*wew$      F              0 
+1             1231          234           255           233         hel*ui*uiddo*wew$      G             -10 
+1             1231          234           255           233         hel*ui*uidddo*wew$      H            -10 
+1             1231          234           255           233         hel*ui*uidddo*wew$      I            -10 
+1             1231          234           255           233         hel*ui*uidddo*wew$      J            -10
+1             1231          234           255           233         hel*ui*uidddo*wew$      K            -20  
